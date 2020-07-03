@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC9259E3-DF32-4BB7-A834-31FD3298559B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78A2A454-89DB-4243-B4C2-88AA6AB33370"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MoviesMasterVc"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "78A2A454-89DB-4243-B4C2-88AA6AB33370 - 3c2ff5456ef62169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVc.__deallocating_deinit"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bdouralmesri/Documents/ios-cw-6/Classwork6/MoviesMasterVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "78A2A454-89DB-4243-B4C2-88AA6AB33370 - 4f5e07a0bec15650"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVc.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MoviesMasterVc"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bdouralmesri/Documents/ios-cw-6/Classwork6/MoviesMasterVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "78A2A454-89DB-4243-B4C2-88AA6AB33370 - f40e0c572194f5cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVc.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MoviesMasterVc"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bdouralmesri/Documents/ios-cw-6/Classwork6/MoviesMasterVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "490">
+               </Location>
+               <Location
+                  uuid = "78A2A454-89DB-4243-B4C2-88AA6AB33370 - 2c24c724bbcc04a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVc.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MoviesMasterVc&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bdouralmesri/Documents/ios-cw-6/Classwork6/MoviesMasterVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "78A2A454-89DB-4243-B4C2-88AA6AB33370 - 90eb47cf598aa63c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVc.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MoviesMasterVc&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bdouralmesri/Documents/ios-cw-6/Classwork6/MoviesMasterVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "431">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "045FB52E-1871-42F5-B9D5-77806697FBF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
